@@ -1,2 +1,2 @@
 # hydrology
-it contains pythin code for the flood analysis for the turbela dam
+it contains python code for the flood analysis for the turbela dam
